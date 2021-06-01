@@ -1,1 +1,1 @@
-Auth Login: with JsonWebToken, Vue, Vuex, Express 🔒
+AUTH LOGIN: with JsonWebToken, Vue, Vuex, Express 🔒
